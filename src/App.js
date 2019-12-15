@@ -1,6 +1,4 @@
 import React from "react";
-// import { render } from "react-dom";
-import "./style.css";
 import Calculator from './Calculator';
 import Table from './Table';
 
